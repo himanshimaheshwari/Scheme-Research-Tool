@@ -1,0 +1,2 @@
+import os
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
